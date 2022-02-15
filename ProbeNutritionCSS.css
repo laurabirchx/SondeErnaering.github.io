@@ -1,0 +1,41 @@
+.unitWidth{
+    width: fit-content;
+}
+
+.width5{
+    width: 2%;
+}
+
+.width95 {
+    width: 95%;
+}
+
+.floatRight {
+    float: right;
+}
+
+.fontweightBold{
+    font-weight: bold;
+}
+
+.floatLeft{
+    float: left;
+}
+
+.marginTop2{
+    margin-top: 2%;
+}
+
+.marginTop5{
+    margin-top: 5%;
+}
+
+.marginRight2{
+    margin-right: 2%;
+}
+
+.topBox{
+    position: absolute;
+    background-color: lightgray;
+    margin-bottom: 5%;
+}
